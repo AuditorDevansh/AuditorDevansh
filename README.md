@@ -3,9 +3,8 @@
 - 🌱 I’m currently learning .... Devops(Aws and Azure).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ::---
-              - Linkedin:-linkedin.com/in/devansh-mishra-013426253
-  
-              - Email:- auditor.devansh.in@gmail.com
+- Linkedin:-linkedin.com/in/devansh-mishra-013426253
+- Email:- auditor.devansh.in@gmail.com
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
