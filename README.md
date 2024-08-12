@@ -5,8 +5,13 @@
 <a href="https://www.linkedin.com/in/devanshmishra29/">
   <img height="50" src="https://cdn3.iconfinder.com/data/icons/social-network-2/512/650861-linkedin-512.png"/>
 </a>
+
+
 <a href="https://x.com/auditor_devansh">
   <img height="50" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_6-twitter-128.png"/>
+</a> 
+<a href="auditor.devansh.in@gmail.com">
+  <img height="50" src="https://cdn4.iconfinder.com/data/icons/logo-brand/512/gmail_google_mail_email-512.png"/>
 </a>
 <br>
 
@@ -36,10 +41,10 @@ hobbies: ["Gaming", "Cinema", "Anime", "Books", "Sports"]
 ```
 <p align="center">
 <a href="https://github.com/AuditorDevansh/AuditorDevansh/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AuditorDevansh" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AuditorDevansh&theme=tokyonight" />
 </a>
 <a href="https://github.com/AuditorDevansh/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AuditorDevansh&layout=donut-vertical&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AuditorDevansh&layout=donut-vertical&theme=tokyonight&langs_count=8&card_width=320" />
 </a>
 </p>
 
