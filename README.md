@@ -34,12 +34,15 @@ currently_learning: ["DSA,MERN-Full Stack Development"]
 
 hobbies: ["Gaming", "Cinema", "Anime", "Books", "Sports"] 
 ```
+<p align="center">
 <a href="https://github.com/AuditorDevansh/AuditorDevansh/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AuditorDevansh" />
 </a>
 <a href="https://github.com/AuditorDevansh/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AuditorDevansh&layout=donut-vertical&langs_count=8&card_width=320" />
 </a>
+</p>
+
 <!---
 AuditorDevansh/AuditorDevansh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
