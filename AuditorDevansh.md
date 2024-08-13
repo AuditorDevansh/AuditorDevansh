@@ -17,19 +17,28 @@
 
 ```yaml
 name: Devansh Mishra
+
 located_in: Meerut,India
+
 current_job: Student
+
 education:
           [
               "Bachelor's in  Computer Application {Cloud and Cyber Security }",
           ]
+
 fields_of_interests:
            [
                 "Web Development",
+
                 "Data Science",
+
                 "Machine Learning",
+
                 "Cyber Security",
+
                 "Game Development",
+
                 "DevOps",
            ]
   
