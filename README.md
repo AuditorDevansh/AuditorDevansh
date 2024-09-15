@@ -3,7 +3,9 @@
 </p>
 <br>
 # 💫 About Me:
+
 ```yaml
+
 name: Devansh Mishra
 
 located_in: Meerut,India
@@ -35,7 +37,9 @@ currently_learning: ["DSA,MERN-Full Stack Development"]
 2024 Goals: ["Create 15+ Projects and learn at least 5-10 new Technologies."]
 
 hobbies: ["Gaming", "Cinema", "Anime", "Books", "Sports"] 
+
 ```
+</br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devanshmishra29) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@auditor_devansh) 
