@@ -1,68 +1,70 @@
-# ⚗️ Building systems from first principles
+# ⚙️ Devansh Mishra
 
-> Math first. Systems second. Security always.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=7CFFB2&center=true&vCenter=true&width=700&lines=Turning+equations+into+systems.;Math+first.+Systems+second.+Security+always.;Building+with+clarity,+depth,+and+intent." alt="Typing SVG" />
+</p>
 
-I’m a developer and learner obsessed with the intersection of mathematics, systems, and security. I don’t just want to write code — I want to understand the mechanics behind it: why systems break, how they recover, how they scale, and how to reason about them under pressure.
+> I’m interested in the mechanics behind reliable software — not just code that runs, but systems that scale, recover, and remain understandable under pressure.
 
-I’m building a toolkit shaped by linear algebra, calculus, logic, distributed systems, networking, operating systems, and secure design. The goal isn’t to collect buzzwords — it’s to become the kind of engineer who can trace a problem all the way down to the fundamentals and still build something dependable.
+I spend my time between mathematics, systems design, and security. My interest isn’t in collecting buzzwords; it’s in understanding the underlying structure of ideas and turning that understanding into dependable engineering.
 
 ---
 
-### 🧠 Current focus
+### 🧠 What drives me
 
 ```python
-engineering_focus = {
-    "mathematics": ["linear algebra", "calculus", "optimization", "formal logic"],
-    "languages": ["Python", "C++"],
+focus = {
+    "mathematics": ["linear algebra", "calculus", "optimization", "logic"],
     "systems": ["distributed systems", "networking", "operating systems"],
     "security": ["threat modeling", "vulnerability analysis", "secure design"],
-    "mindset": "learn deeply, build carefully, verify relentlessly"
+    "languages": ["Python", "C++"],
+    "approach": "reason deeply, build carefully, verify relentlessly"
 }
 ```
 
-I’m not chasing a finished résumé. I’m building depth: one concept, one proof, one system at a time.
+I like problems with depth — where correctness matters, where architecture matters, and where the right answer is not just fast but principled.
 
 ---
 
-### 🔧 Toolchain
+### 🧰 Core stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Networking-4B8BBE?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Networking-4B8BBE?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking" />
+  <img src="https://img.shields.io/badge/Security-111827?style=for-the-badge&logo=lock&logoColor=white" alt="Security" />
 </p>
 
 ---
 
-### 🧱 The stack I’m building toward
+### 🧱 Building toward
 
-| Domain | Direction |
+| Area | Direction |
 |---|---|
-| 🧮 Foundations | Linear algebra, vector calculus, optimization, logic |
-| 🐍 Languages | Python for fast iteration, C++ for performance and control |
-| 🌐 Systems | Networking, distributed coordination, fault tolerance |
-| 🔐 Security | Adversarial thinking, exploit analysis, secure architecture |
-| 🖥️ OS | How software interacts with the machine underneath |
-| 🧠 Design | Correctness over cleverness; reasoning before implementation |
+| 🧮 Foundations | Linear algebra, optimization, logic, abstraction |
+| 🐍 Languages | Python for clarity, C++ for performance and control |
+| 🌐 Systems | Fault tolerance, protocol design, networked behavior |
+| 🔐 Security | Adversarial thinking, secure architecture, resilience |
+| 🖥️ OS & Runtime | How software interacts with the machine beneath it |
+| 🧠 Engineering | Correctness over cleverness, depth over noise |
 
 ---
 
 ### 📈 Current trajectory
 
 ```text
-[█████████░░░░░░░░░] Mathematics      — deepening daily
-[███████░░░░░░░░░░░] Python / C++     — sharpening tools
-[█████░░░░░░░░░░░░░] Distributed Sys  — mapping the terrain
-[███░░░░░░░░░░░░░░░] Security         — probing edges
-[███████████████████] Curiosity        — still compounding
+[█████████░░░░░░░░░] Mathematics      — deepening fundamentals
+[███████░░░░░░░░░░░] Python / C++     — strengthening tools
+[█████░░░░░░░░░░░░░] Distributed Sys  — understanding coordination
+[███░░░░░░░░░░░░░░░] Security         — exploring edges and weaknesses
+[███████████████████] Curiosity        — never plateauing
 ```
 
-This isn’t a sprint. It’s a long, deliberate climb into systems thinking, rigorous reasoning, and technical craft.
+I’m not chasing a polished résumé. I’m building a foundation strong enough to support real systems, real understanding, and real problem solving.
 
-If you’re on a similar path — building deeper understanding instead of just faster output — let’s compare notes.
+If you're building with a similar mindset — deep learning, systems thinking, and engineering with intent — I’d be glad to exchange ideas.
 
 ---
 
