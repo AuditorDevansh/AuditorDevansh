@@ -1,77 +1,71 @@
-<!-- <h1 align="center">⚗️ The Alchemy of Logic ⚗️</h1>
+# ⚗️ Building systems from first principles
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Turning+equations+into+engineering...;Vectors.+Gradients.+Logic.+Repeat.;Building+a+toolbox%2C+one+bug+at+a+time.;Still+compiling+myself...+99%25+done." alt="Typing SVG" />
-</p>
+> Math first. Systems second. Security always.
 
-<p align="center">
-  <i>"Somewhere between a matrix and a machine, I found the thing I wanted to build."</i>
-</p> -->
+I’m a developer and learner obsessed with the intersection of mathematics, systems, and security. I don’t just want to write code — I want to understand the mechanics behind it: why systems break, how they recover, how they scale, and how to reason about them under pressure.
+
+I’m building a toolkit shaped by linear algebra, calculus, logic, distributed systems, networking, operating systems, and secure design. The goal isn’t to collect buzzwords — it’s to become the kind of engineer who can trace a problem all the way down to the fundamentals and still build something dependable.
 
 ---
 
-### 🧪 The Origin Story
-
-I'm not just writing code — I'm running a long, deliberate experiment on myself.
-
-Every morning starts the same way: a notebook full of half-solved equations and a terminal full of half-finished ideas. I'm **passionately, stubbornly** in love with mathematics — not the kind that lives in textbooks, but the kind that *becomes* something. Linear systems that model reality. Vectors that point somewhere real. Gradients that quietly tell you which way to walk when everything looks flat. Logic that holds a system together when nothing else will.
-
-I call it **technical alchemy** — the slow transmutation of raw math into systems that don't fall over at 3 AM.
-
----
-
-### 📐 What's Bubbling in the Lab Right Now
+### 🧠 Current focus
 
 ```python
-current_obsessions = {
-    "mathematics": ["linear algebra", "vector calculus", "gradient descent", "formal logic"],
-    "languages":   ["Python", "C++"],
-    "systems":     ["distributed systems", "networking", "operating systems"],
-    "security":    ["data security", "vulnerability analysis", "threat modeling"],
-    "status":      "long journey, no shortcuts, still going"
+engineering_focus = {
+    "mathematics": ["linear algebra", "calculus", "optimization", "formal logic"],
+    "languages": ["Python", "C++"],
+    "systems": ["distributed systems", "networking", "operating systems"],
+    "security": ["threat modeling", "vulnerability analysis", "secure design"],
+    "mindset": "learn deeply, build carefully, verify relentlessly"
 }
 ```
 
-I'm not chasing a finished résumé. I'm forging a **toolbox** — piece by piece, proof by proof — of everything it takes to build systems that are fast, correct, and hard to break.
+I’m not chasing a finished résumé. I’m building depth: one concept, one proof, one system at a time.
 
 ---
 
-### ⚙️ The Toolbox — Under Construction
+### 🔧 Toolchain
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Networking-4B8BBE?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Networking-4B8BBE?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=linux&logoColor=white" alt="Cybersecurity"/>
 </p>
 
-| Layer | What I'm Building Toward |
+---
+
+### 🧱 The stack I’m building toward
+
+| Domain | Direction |
 |---|---|
-| 🧮 **Foundations** | Linear algebra, vectors, gradients, discrete math & logic |
-| 🐍 **Core Languages** | Python for speed of thought, C++ for speed of execution |
-| 🌐 **Distributed & Networked Systems** | Consistency, fault-tolerance, protocols that don't lie |
-| 🔐 **Security & Vulnerability Analysis** | Thinking like an attacker to build like a defender |
-| 🖥️ **Operating Systems** | Understanding the ground everything else stands on |
-| 🧠 **Logic & Systems Design** | Making sure it's not just working — it's *reasoned* |
+| 🧮 Foundations | Linear algebra, vector calculus, optimization, logic |
+| 🐍 Languages | Python for fast iteration, C++ for performance and control |
+| 🌐 Systems | Networking, distributed coordination, fault tolerance |
+| 🔐 Security | Adversarial thinking, exploit analysis, secure architecture |
+| 🖥️ OS | How software interacts with the machine underneath |
+| 🧠 Design | Correctness over cleverness; reasoning before implementation |
 
 ---
 
-### 🧭 The Journey So Far
+### 📈 Current trajectory
 
-```
-[■■■■■■■□□□□□□□□□□□□□] Mathematics      — learning daily
-[■■■■■□□□□□□□□□□□□□□□] Python / C++     — sharpening the blade
-[■■■□□□□□□□□□□□□□□□□□] Distributed Sys  — mapping the territory
-[■■□□□□□□□□□□□□□□□□□□] Security         — probing the edges
-[■■■■■■■■■■■■■■■■■■■■] Curiosity        — never depleting
+```text
+[█████████░░░░░░░░░] Mathematics      — deepening daily
+[███████░░░░░░░░░░░] Python / C++     — sharpening tools
+[█████░░░░░░░░░░░░░] Distributed Sys  — mapping the terrain
+[███░░░░░░░░░░░░░░░] Security         — probing edges
+[███████████████████] Curiosity        — still compounding
 ```
 
-This isn't a sprint. It's a long walk with good math and better questions. If you're on a similar path — building your own toolbox, one gradient at a time — let's compare notes.
+This isn’t a sprint. It’s a long, deliberate climb into systems thinking, rigorous reasoning, and technical craft.
+
+If you’re on a similar path — building deeper understanding instead of just faster output — let’s compare notes.
 
 ---
 
 <p align="center">
-  <i>⚡ Currently debugging: myself, one iteration at a time. ⚡</i>
+  <i>⚡ Currently debugging: assumptions, one iteration at a time. ⚡</i>
 </p>
