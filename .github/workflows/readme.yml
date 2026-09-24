@@ -1,0 +1,38 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Runs every Monday at 00:00 UTC
+    - cron: '0 0 * * 1'
+  workflow_dispatch:  # Allows manual trigger
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update README
+        run: |
+          # This workflow keeps your GitHub stats fresh
+          # The markdown uses dynamic stat endpoints that update automatically
+          echo "README stats badge URLs are live—they update in real-time!"
+          echo "No file changes needed for stats updates."
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "chore: update README stats [automated]"
+            git push
+          fi
